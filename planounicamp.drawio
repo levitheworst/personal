@@ -22,8 +22,11 @@
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-3" value="Liga do Trauma&lt;div&gt;9h-16h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-4" value="&lt;div&gt;Anatomia Humana e Fisiologia&lt;/div&gt;&lt;div&gt;9h-16h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-4" value="&lt;div&gt;Anatomia, Fisiologia e Clínica Médica&lt;/div&gt;&lt;div&gt;9h-16h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-8" value="Museu Exploratório de Ciências" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
