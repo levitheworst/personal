@@ -1,17 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram id="Izj5L3filvlqaQfVnaUW" name="Ordem de visita">
-    <mxGraphModel dx="419" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wo5oIoW4AqEakb2jiEUk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wo5oIoW4AqEakb2jiEUk-1" target="p2hPYQxKsy2v4Lg1b3_n-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wo5oIoW4AqEakb2jiEUk-1" value="Faculdade de Ciências Médicas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p2hPYQxKsy2v4Lg1b3_n-1" target="p2hPYQxKsy2v4Lg1b3_n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2hPYQxKsy2v4Lg1b3_n-1" value="Centro de Engenharia Biomédica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p2hPYQxKsy2v4Lg1b3_n-2" target="p2hPYQxKsy2v4Lg1b3_n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2hPYQxKsy2v4Lg1b3_n-2" value="Faculdade de Ciências Farmacêuticas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p2hPYQxKsy2v4Lg1b3_n-3" target="Le8SwTPkwTNsYNBGTRCE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2hPYQxKsy2v4Lg1b3_n-3" value="Faculdade de Engenharia Elétrica e de Computação" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xtdCMg2lohHTNA_rNeVA-1" target="xtdCMg2lohHTNA_rNeVA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-1" value="Instituto de Biologia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xtdCMg2lohHTNA_rNeVA-2" target="xtdCMg2lohHTNA_rNeVA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-2" value="Biblioteca Central" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xtdCMg2lohHTNA_rNeVA-10" target="sodq15m5LK_rp1EYWIa7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xtdCMg2lohHTNA_rNeVA-10" value="Faculdade de Educação Física" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpY7vMn5DgknhtSpWEOa-1" target="xtdCMg2lohHTNA_rNeVA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="70" />
+              <mxPoint x="840" y="110" />
+              <mxPoint x="-10" y="110" />
+              <mxPoint x="-10" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpY7vMn5DgknhtSpWEOa-1" value="Instituto de Química" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Le8SwTPkwTNsYNBGTRCE-1" target="CpY7vMn5DgknhtSpWEOa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Le8SwTPkwTNsYNBGTRCE-1" value="Faculdade de Engenharia Química" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sodq15m5LK_rp1EYWIa7-6" target="3enqavT_QK1MqHwyAqC8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sodq15m5LK_rp1EYWIa7-6" value="Instituto de Geociências" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="425" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3enqavT_QK1MqHwyAqC8-1" target="aGk_7-7awbIMdgzu7NDT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3enqavT_QK1MqHwyAqC8-1" value="Faculdade de Engenharia Civil, Arquitetura e Urbanismo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-1" value="Museu Exploratório de Ciências" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-4" value="Mais relevante" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-5" value="Relevante" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-6" value="Pouco relevante" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-8" value="Nem um pouco relevante (não está no diagrama kk)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="75" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-11" value="Levi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aGk_7-7awbIMdgzu7NDT-11" target="aGk_7-7awbIMdgzu7NDT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-19" value="Iasmim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aGk_7-7awbIMdgzu7NDT-19" target="aGk_7-7awbIMdgzu7NDT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="395" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aGk_7-7awbIMdgzu7NDT-27" value="Ilustração de nós caminhando pela Unicamp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476.25" y="370" width="292.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Horários" id="pyt_NaVu_KuP6x1EoEtS">
-    <mxGraphModel dx="880" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +181,7 @@
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-19" target="kQ0Cs4vE6R5qngt5Rj3R-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-19" value="Faculdade de Engenharia Civil" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-19" value="Faculdade de Engenharia Civil, Arquitetura e Urbanismo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-20" value="Conhecendo o Tratamento de Água&lt;div&gt;9h-16h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,41 +196,38 @@
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-23" value="Vitrines de minerais e rochas e outras coisas brabas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-25" target="kQ0Cs4vE6R5qngt5Rj3R-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-25" value="Instituto Confúcio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-26" value="Workshops e cultura oriental&lt;div&gt;9h-16h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-27" target="kQ0Cs4vE6R5qngt5Rj3R-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-27" value="Instituto de Engenharia Química" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="40" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-28" value="Destilação&lt;div&gt;8h30-17h30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-30" target="kQ0Cs4vE6R5qngt5Rj3R-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-30" value="Instituto de Química" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="40" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-32" value="Luminescência Molecular&lt;div&gt;9h-17h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-35" target="kQ0Cs4vE6R5qngt5Rj3R-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lgWG7wgK5vAK4kxDtxTn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-35" target="kQ0Cs4vE6R5qngt5Rj3R-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-35" value="Biblioteca Central" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="40" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-37" value="Meteorologia e sensoriamento remoto&lt;div&gt;9h-17h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-39" target="kQ0Cs4vE6R5qngt5Rj3R-40">
           <mxGeometry relative="1" as="geometry" />
@@ -129,7 +235,7 @@
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQ0Cs4vE6R5qngt5Rj3R-39" target="kQ0Cs4vE6R5qngt5Rj3R-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-39" value="Engenharia Elétrica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-39" value="Instituto de Engenharia Elétrica e de Computação" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kQ0Cs4vE6R5qngt5Rj3R-40" value="Oficina de Eletrônica&lt;div&gt;9h-13h&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
